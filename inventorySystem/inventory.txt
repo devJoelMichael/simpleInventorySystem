@@ -1,5 +1,5 @@
-item, price, count
-phone, $200, 14
+item, price, count, ID
+phone, $200, 14, 01
 laptop, $900, 46
 HDD, $200, 40
 earbud, $50, 99
