@@ -1,6 +1,6 @@
 item, price, count
-phone,200,14
-laptop,900,46
-HDD,200,40
-earphone,50,99
-charger,75,100
+phone, $200, 14
+laptop, $900, 46
+HDD, $200, 40
+earbud, $50, 99
+charger, $75, 100
